@@ -1,0 +1,112 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "BaiTap_3b2b6cb"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch BT1_Affine",
+            "request": "launch",
+            "mainClass": "BT1_Affine",
+            "projectName": "BaiTap_3b2b6cb"
+        },
+        {
+            "type": "java",
+            "name": "Launch BT1_Eratosthenes",
+            "request": "launch",
+            "mainClass": "BT1_Eratosthenes",
+            "projectName": "BaiTap_3b2b6cb"
+        },
+        {
+            "type": "java",
+            "name": "Launch BT1_MatMaCaesar",
+            "request": "launch",
+            "mainClass": "BT1_MatMaCaesar",
+            "projectName": "BaiTap_3b2b6cb"
+        },
+        {
+            "type": "java",
+            "name": "Launch BT1_NghichDaoMotSoEuclideanMoRong",
+            "request": "launch",
+            "mainClass": "BT1_NghichDaoMotSoEuclideanMoRong",
+            "projectName": "BaiTap_3b2b6cb"
+        },
+        {
+            "type": "java",
+            "name": "Launch BT1_PhanDuTrungHoa",
+            "request": "launch",
+            "mainClass": "BT1_PhanDuTrungHoa",
+            "projectName": "BaiTap_3b2b6cb"
+        },
+        {
+            "type": "java",
+            "name": "Launch BT1_SubtitutionCipher",
+            "request": "launch",
+            "mainClass": "BT1_SubtitutionCipher",
+            "projectName": "BaiTap_3b2b6cb"
+        },
+        {
+            "type": "java",
+            "name": "Launch BT1_Vigenere",
+            "request": "launch",
+            "mainClass": "BT1_Vigenere",
+            "projectName": "BaiTap_3b2b6cb"
+        },
+        {
+            "type": "java",
+            "name": "Launch BT1_Vigenere_findK",
+            "request": "launch",
+            "mainClass": "BT1_Vigenere_findK",
+            "projectName": "BaiTap_3b2b6cb"
+        },
+        {
+            "type": "java",
+            "name": "Launch BT2_EuclideanMoRong",
+            "request": "launch",
+            "mainClass": "BT2_EuclideanMoRong",
+            "projectName": "BaiTap_3b2b6cb"
+        },
+        {
+            "type": "java",
+            "name": "Launch BT2_LuyThuaNhanh",
+            "request": "launch",
+            "mainClass": "BT2_LuyThuaNhanh",
+            "projectName": "BaiTap_3b2b6cb"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab08_TrapdoorKnapsack",
+            "request": "launch",
+            "mainClass": "Lab08_TrapdoorKnapsack",
+            "projectName": "BaiTap_3b2b6cb"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab7_Playfair",
+            "request": "launch",
+            "mainClass": "Lab7_Playfair",
+            "projectName": "BaiTap_3b2b6cb"
+        },
+        {
+            "type": "java",
+            "name": "Launch SubtitutionCipher",
+            "request": "launch",
+            "mainClass": "SubtitutionCipher",
+            "projectName": "BaiTap_3b2b6cb"
+        }
+    ]
+}
